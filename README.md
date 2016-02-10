@@ -1,2 +1,2 @@
-# R_Projects
+# R scripts for statistical analysis
 ### author: Robert Anderson
